@@ -16,3 +16,5 @@ pour l'executer taper
 ```sh
 java Saluer
 ```
+
+# fer;er le programme
